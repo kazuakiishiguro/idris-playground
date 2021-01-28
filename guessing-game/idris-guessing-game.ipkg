@@ -1,0 +1,5 @@
+package idris-guessing-game
+sourcedir = src
+modules = Main
+executable = "guessing_game"
+main = Main
